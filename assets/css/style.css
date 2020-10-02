@@ -27,7 +27,7 @@ header {
   background-image: url("../images/hero-bg.jpg");
   background-size: cover;
   background-attachment: fixed;
-  background-position: 80%;
+  background-position: center;
   z-index: 9999;
 }
 
@@ -103,7 +103,7 @@ section {
   background-image: url("../images/hero-bg.jpg");
   background-size: cover;
   background-attachment: fixed;
-  background-position: 80%;
+  background-position: center;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
